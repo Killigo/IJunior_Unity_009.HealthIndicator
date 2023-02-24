@@ -1,2 +1,2 @@
-# IJunior_Unity_009.HealthIndicator
- 
+# Демонстрация работы доступна в видео по пути:
+\Recordings\GIF.gif
