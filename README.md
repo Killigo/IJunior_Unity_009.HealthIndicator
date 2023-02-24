@@ -1,2 +1,2 @@
 # Демонстрация работы доступна в видео по пути:
-\Recordings\GIF.gif
+\Recordings\movie_001.mp4
